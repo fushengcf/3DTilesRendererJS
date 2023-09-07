@@ -23,7 +23,7 @@ export { EllipsoidRegionHelper, EllipsoidRegionLineHelper } from './three/object
 export { SphereHelper } from './three/objects/SphereHelper.js';
 export { Ellipsoid } from './three/math/Ellipsoid.js';
 export { EllipsoidRegion } from './three/math/EllipsoidRegion.js';
-export * as GeoUtils from './three/math/GeoUtils.js';
+export * from './three/math/GeoUtils.js';
 export * from './three/math/GeoConstants.js';
 export * from './three/renderers/GoogleTilesRenderer.js';
 export * from './three/renderers/CesiumIonTilesRenderer.js';
