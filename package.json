@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NASA-AMMOS/3DTilesRendererJS.git"
+    "url": "git+https://github.com/fushengcf/3DTilesRendererJS.git"
   },
   "bugs": {
-    "url": "https://github.com/NASA-AMMOS/3DTilesRendererJS/issues"
+    "url": "https://github.com/fushengcf/3DTilesRendererJS/issues"
   },
-  "homepage": "https://github.com/NASA-AMMOS/3DTilesRendererJS#readme",
+  "homepage": "https://github.com/fushengcf/3DTilesRendererJS#readme",
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
